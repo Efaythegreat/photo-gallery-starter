@@ -14,7 +14,8 @@
     The original images are all different sizes but we need
     them to be consistent for the gallery layout to look good.
     */
-    height: 200px;
+    width: 200px;
+    
 
     /* add an outline around each picture */
     border: 3px double black;
@@ -29,3 +30,4 @@ body{
     background:url(https://ae01.alicdn.com/kf/HTB1NazrRXXXXXbRXFXXq6xXFXXXU/HUAYI-New-Arrival-Photography-Backdrop-Food-Product-photography-background-Dark-old-wood-floordrop-shabby-wooden-backdrop.jpg);
     color:white;
 }
+
